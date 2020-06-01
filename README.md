@@ -2,7 +2,7 @@
 
 Site que recria o design do site da Piticas https://piticas.com.br/
 
-##Nesse projeto foi usado:
+## Nesse projeto foi usado:
  
 - ReactJS
 - Styled Components
